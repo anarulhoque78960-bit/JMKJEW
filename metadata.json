@@ -1,0 +1,6 @@
+{
+  "name": "JMKJEW - Premium Fashion & Artificial Jewellery",
+  "description": "JMKJEW – Elegance in Every Detail. Shop handcrafted artificial jhumkas, fashion earrings, necklace sets, bridal jewellery, and designer keepsake boxes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
